@@ -8,7 +8,7 @@ import (
 	"reflect"
 )
 
-// Some Error sample
+// SomeError sample
 var SomeError = errors.New("error: description")
 
 // EOFError sample
